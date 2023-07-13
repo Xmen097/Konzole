@@ -1,0 +1,90 @@
+Èasy:
+draw_pixel: 42'000 ns
+jeden cyklus: 105 ns
+
+Stejna metoda ctverce: 501'280 us
+
+Puvodni: 			5'993'040 us
+Bez deleni: 		4'406'176 us
+Ciste volani move: 	3'069'576 us
+Cistej get_color:       296'424 us
+
+
+Soupis souèástek:
+8x https://www.gme.cz/p-b1729 (4 napravo, 4 dole)
+1x https://www.gme.cz/naklonovy-spinac-sw-520d nebo https://www.gme.cz/naklonovy-spinac-sw-200d
+1x https://www.gme.cz/led-3mm-green-150-50-l934sgc#product-detail
+1x https://www.gme.cz/led-3mm-blue-1500-25-l-7104qbc-d
+1x https://www.gme.cz/modul-nabijecka-lithiovych-clanku-s-micro-usb
+1x https://www.gme.cz/atmega328p-pu-sdip28-atmel
+1x https://www.gme.cz/sokl-28u
+1x https://www.gme.cz/posuvny-spinac-b1544
+1x https://www.gme.cz/konektor-se-zamkem-psh02-05wg
+6x https://www.gme.cz/rm-3k-0207-0-6w-1 (6x dìliè multiplexer)
+20x https://www.gme.cz/rm-10k-0207-0-6w-1 (6*3x dìliè napìtí multiplexer + 1x reset + 1x dìliè na baterku)
+16x https://www.gme.cz/rm-1k-0207-0-6w-1 (6x dìliè display + 2x tranzistor + 2x na status LED + 6x multiplexer + 1x paralelnì s piezem)
+7x https://www.gme.cz/rm-2k-0207-0-6w-1 (6x dìliè display, 1x dìliè baterka)
+1x https://www.gme.cz/rm-100k-0309-1w-1 (load sharing)
+1x https://www.gme.cz/1n5819(load sharing)
+1x https://www.gme.cz/ck-1u-50v-z5u-rm5-08-20-hitano (load sharing)
+1x https://www.gme.cz/unipolarni-tranzistor-irf9610-to220 (load sharing)
+1x https://www.gme.cz/osrb38c9aa#product-detail (IR rx)
+1x https://www.gme.cz/infra-led-5mm-55mw-15-osi5ca5111a (IR tx)
+2x https://www.gme.cz/bipolarni-tranzistor-pn2222a-to92(IR tranzistor, bzuèák)
+1x https://www.gme.cz/rm-47r-0309-1w-1(IR odpor)
+1x https://www.gme.cz/magnetodynamicky-menic-do-dps-al1210mte-p5r (bzuèák)
+1x https://www.gme.cz/pc1221nk010 (potenciometr pro bzuèák)
+1x https://www.gme.cz/rm-100r-0309-1w-1 (odpor pro bzuèák)
+
+Shopping cart:
+213-218;10
+114-453;7
+641-067;7
+114-450;7
+215-373;14
+518-401;7
+520-081;10
+120-249;10
+223-001;10
+114-486;7
+110-080;50
+110-073;70
+110-097;140
+110-084;50
+800-172;7
+630-933;7
+823-026;10
+432-228;7
+775-102;7
+511-055;10
+511-553;10
+539-054;7
+631-153;56
+832-468;10
+
+
+frekvence tone se posere po zapnutí IR vysílaèe
+
+Pøídavné vìci:
+IRF9510PBF VISHAY 2x
+
+
+Poèty odporù:
+47: 1x
+1k: 14x
+2k: 9x
+3k: 3x
+10k: 10x
+100k: 1x
+
+Jeroným, Patrik, Šimon, Jonatán nemají arduino + kabely
+
+Jeroným, Jonatán mají neupravený model.
+
+Jeroným: fialové tìlo, støíbrné tlaèítka
+Šimon: bílé tìlo, èerná tlaèítka
+Patrik: fialové tìlo, petrolejovì zelené tlaèítka
+Jonatán: èerné tìlo, fialové tlaèítka
+Vojtìch: èerné tìlo, oranžová tlaèítka
+
+

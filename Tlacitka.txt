@@ -1,0 +1,1 @@
+MENU, PAUSE, snížení/zvýšení jasu, mute
